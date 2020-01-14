@@ -1,0 +1,547 @@
+id,explain,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,total_points,in_dreamteam
+14,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'saves', 'points': 1, 'value': 3}]}]",90,0,0,0,1,0,0,0,0,0,3,0,13,18.6,0.0,0.0,1.9,3,False
+27,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+47,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'saves', 'points': 2, 'value': 8}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,0,0,2,0,0,0,0,0,8,1,28,64.8,0.0,0.0,6.5,4,False
+48,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+72,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+73,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+74,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+93,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,1,0,10,6.6,0.0,0.0,0.7,1,False
+94,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,1,0,9,6.4,0.0,0.0,0.6,1,False
+95,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+111,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,1,0,23,18.0,0.0,0.0,1.8,6,False
+112,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+131,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'saves', 'points': 1, 'value': 3}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,0,0,1,0,0,0,0,0,0,3,2,27,27.4,0.0,0.0,2.7,9,True
+132,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+148,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 3}, {'identifier': 'saves', 'points': 2, 'value': 6}]}]",90,0,0,0,3,0,0,0,0,0,6,0,22,41.0,0.0,0.0,4.1,3,False
+149,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+168,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,19,3.4,0.0,0.0,0.3,6,False
+169,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+170,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+189,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+190,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+212,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'saves', 'points': 2, 'value': 6}]}]",90,0,0,0,1,0,0,0,0,0,6,0,22,47.2,0.0,0.0,4.7,4,False
+213,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+235,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'saves', 'points': 1, 'value': 4}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,0,0,1,0,0,0,0,0,4,1,17,31.0,0.0,0.0,3.1,4,False
+236,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+237,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+262,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -2, 'value': 5}]}]",90,0,0,0,5,0,0,0,0,0,1,0,9,10.8,0.0,0.0,1.1,0,False
+263,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+264,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+280,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+281,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 68}]}]",68,0,0,0,1,0,0,0,0,0,0,0,8,1.4,0.0,0.0,0.1,2,False
+299,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+317,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+318,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+319,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,2,0,11,17.8,0.0,0.0,1.8,1,False
+340,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'saves', 'points': 1, 'value': 5}]}]",90,0,0,0,1,0,0,0,0,0,5,0,17,25.8,0.0,0.0,2.6,3,False
+341,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+366,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,1,0,10,12.0,0.0,0.0,1.2,1,False
+367,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+388,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 33}]}]",33,0,0,0,1,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,1,False
+411,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'saves', 'points': 1, 'value': 5}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,0,0,1,0,0,0,0,0,0,5,2,29,38.6,0.0,0.0,3.9,9,False
+412,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+413,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+427,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+429,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+436,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+449,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 21}]}]",21,0,0,0,1,0,0,0,0,0,1,0,6,4.0,0.0,0.0,0.4,1,False
+450,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 56}, {'identifier': 'saves', 'points': 1, 'value': 3}]}]",56,0,0,0,1,0,0,0,0,0,3,0,11,20.4,0.0,0.0,2.0,2,False
+471,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'saves', 'points': 1, 'value': 3}]}]",90,0,0,0,1,0,0,0,0,0,3,0,12,16.8,0.0,0.0,1.7,3,False
+474,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+479,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+494,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'saves', 'points': 1, 'value': 4}]}]",90,0,0,0,2,0,0,0,0,0,4,0,17,30.2,0.0,0.0,3.0,2,False
+495,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+513,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+521,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+526,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,1,0,0,0,0,1,0,2,0,22,15.8,0.0,0.0,1.6,5,False
+530,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+531,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+543,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+548,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+1,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+2,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+3,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,11,13.0,2.3,0.0,1.5,2,False
+4,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+5,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,7,14.6,0.3,0.0,1.5,2,False
+6,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+7,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+8,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+9,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+10,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+22,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+23,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+24,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 28}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",28,0,0,0,2,0,0,0,0,0,0,0,3,1.0,0.8,0.0,0.2,0,False
+25,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+37,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+38,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,14,18.4,25.3,0.0,4.4,1,False
+39,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+40,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+41,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",45,0,0,0,2,0,0,0,0,0,0,0,6,15.0,26.6,6.0,4.8,0,False
+42,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,12,8.8,0.3,0.0,0.9,1,False
+43,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+58,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,12,20.0,0.0,0.0,2.0,0,False
+59,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,1,0,2,0,0,0,0,0,0,1,28,33.0,10.4,26.0,6.9,5,False
+60,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+61,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+62,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 1}]}]",1,0,0,0,0,0,0,0,0,0,0,0,3,0.4,0.3,0.0,0.1,1,False
+63,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+64,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+65,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,17,28.2,86.3,0.0,11.5,0,False
+66,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+83,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,9,19.8,0.0,7.0,2.7,1,False
+84,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,10,27.0,0.3,7.0,3.4,0,False
+85,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,1,0,2,0,0,0,0,0,0,0,22,32.8,15.3,2.0,5.0,4,False
+86,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+87,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+88,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+89,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+103,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,1,0,0,0,0,1,0,0,0,22,12.0,27.3,15.0,5.4,5,False
+104,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+105,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,1,28,22.8,12.1,4.0,3.9,7,False
+106,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,14,30.6,7.1,10.0,4.8,2,False
+107,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+108,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,1,0,0,0,0,1,0,0,0,22,18.8,0.9,0.0,2.0,5,False
+109,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+122,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+123,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,24,8.6,18.7,4.0,3.1,6,False
+124,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+125,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+126,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,0,0,1,0,0,0,0,0,0,0,2,27,21.0,2.8,0.0,2.4,8,False
+127,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+128,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,20,12.8,0.4,0.0,1.3,6,False
+141,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 3}]}]",90,0,0,0,3,0,0,0,0,0,0,0,20,11.6,26.4,3.0,4.1,1,False
+142,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 3}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,3,0,0,0,1,0,0,0,12,33.4,0.7,71.0,10.5,0,False
+143,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 3}]}]",90,0,0,0,3,0,0,0,0,0,0,0,13,13.2,0.6,2.0,1.6,1,False
+144,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'goals_conceded', 'points': -1, 'value': 3}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,0,1,0,3,0,0,0,0,0,0,2,33,34.4,12.3,36.0,8.3,6,False
+145,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+159,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 6, 'value': 1}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,1,0,1,0,0,0,0,0,0,0,1,35,47.6,18.4,9.0,7.5,13,True
+160,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,9,14.0,1.4,15.0,3.0,2,False
+161,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,32,24.4,27.2,8.0,6.0,6,False
+162,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,0,1,1,0,0,0,0,0,0,0,2,38,31.0,11.9,2.0,4.5,11,True
+163,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+164,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,30,24.6,1.3,0.0,2.6,6,False
+165,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+181,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,26,18.0,17.0,3.0,3.8,6,False
+182,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,27,27.4,7.7,1.0,3.6,6,False
+183,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,0,0,1,0,0,0,0,0,0,0,2,29,31.0,14.1,2.0,4.7,8,False
+184,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+185,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,0,0,1,0,0,0,0,0,0,0,3,30,21.8,2.0,0.0,2.4,9,False
+186,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+202,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+203,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,14,9.0,18.8,0.0,2.8,2,False
+204,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+205,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 3}]}]",90,0,0,0,3,0,0,0,0,0,0,0,18,13.6,8.8,0.0,2.2,1,False
+206,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,16,21.6,18.4,0.0,4.0,2,False
+207,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+208,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,1,0,0,0,1,0,0,0,12,19.2,11.1,2.0,3.2,1,False
+209,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+223,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+224,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,1,0,0,0,1,0,0,0,11,10.6,39.3,2.0,5.2,1,False
+225,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,12,20.4,0.5,0.0,2.1,2,False
+226,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+227,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+228,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+229,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+230,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+231,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+251,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+252,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -2, 'value': 5}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,5,0,0,0,1,0,0,0,8,20.6,0.3,2.0,2.3,-1,False
+253,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 16}]}]",16,0,0,0,1,0,0,0,0,0,0,0,3,1.2,0.3,0.0,0.2,1,False
+254,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+255,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -2, 'value': 5}, {'identifier': 'own_goals', 'points': -2, 'value': 1}]}]",90,0,0,0,5,1,0,0,0,0,0,0,10,13.4,5.0,0.0,1.8,-2,False
+256,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+257,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+258,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -2, 'value': 5}]}]",90,0,0,0,5,0,0,0,0,0,0,0,20,15.6,0.3,0.0,1.6,0,False
+259,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+272,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+273,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,18,25.6,2.3,0.0,2.8,1,False
+274,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,11,13.0,4.4,10.0,2.7,1,False
+275,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+276,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,17,20.4,23.3,2.0,4.6,1,False
+277,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+291,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,19,19.6,47.4,0.0,6.7,2,False
+292,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+293,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,1,0,0,0,1,0,0,0,7,17.6,1.3,18.0,3.7,1,False
+294,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,12,11.8,15.2,2.0,2.9,2,False
+295,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,9,18.0,0.3,2.0,2.0,2,False
+296,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+297,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,11,11.8,16.3,38.0,6.6,2,False
+304,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 78}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",78,0,0,0,2,0,0,0,0,0,0,0,13,14.2,23.1,0.0,3.7,1,False
+305,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,16,22.0,52.8,2.0,7.7,1,False
+306,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+307,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,6,21.2,1.1,0.0,2.2,0,False
+308,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+309,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 61}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",61,0,0,1,0,0,0,0,0,0,0,3,31,11.2,17.2,2.0,3.0,9,False
+310,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,10,19.4,1.8,25.0,4.6,0,False
+311,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+329,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+330,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,17,17.6,0.0,2.0,2.0,2,False
+331,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,13,23.6,0.3,0.0,2.4,2,False
+332,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,18,21.2,12.4,0.0,3.4,2,False
+333,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+334,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+335,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+336,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 30}, {'identifier': 'red_cards', 'points': -3, 'value': 1}]}]",30,0,0,0,1,0,0,0,0,1,0,0,-4,3.8,1.0,0.0,0.5,-2,False
+337,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+353,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,10,11.8,21.4,18.0,5.1,0,False
+354,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+355,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+356,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+357,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+358,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,13,12.6,0.8,0.0,1.3,1,False
+359,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'own_goals', 'points': -2, 'value': 1}]}]",90,0,0,0,2,1,0,0,0,0,0,0,5,8.4,18.4,0.0,2.7,-1,False
+360,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+361,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+376,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 6, 'value': 1}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,1,0,0,2,0,0,0,0,0,0,0,20,40.8,3.9,43.0,8.8,7,False
+377,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,14,16.2,0.7,0.0,1.7,1,False
+378,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+379,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+380,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,23,31.4,13.3,14.0,5.9,1,False
+381,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,9,18.4,0.3,2.0,2.1,0,False
+382,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+383,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+384,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+401,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 6, 'value': 1}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,1,0,1,0,0,0,0,0,0,0,3,36,46.2,12.8,33.0,9.2,15,True
+402,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,25,12.4,3.3,7.0,2.3,6,False
+403,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,1,28,17.6,0.1,0.0,1.8,7,False
+404,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+405,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,1,28,35.0,10.8,0.0,4.6,7,False
+406,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+407,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,26,19.4,0.4,0.0,2.0,6,False
+408,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+423,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,11,12.8,1.2,0.0,1.4,2,False
+433,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+439,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,13,11.2,1.1,2.0,1.4,1,False
+440,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+444,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+445,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,16,26.6,0.3,0.0,2.7,1,False
+446,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 88}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",88,0,0,0,2,0,0,0,0,0,0,0,16,19.2,11.5,2.0,3.3,1,False
+447,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,0,1,0,2,0,0,0,0,0,0,2,27,33.0,29.2,0.0,6.2,6,False
+452,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+454,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+455,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,13,8.2,0.4,0.0,0.9,1,False
+458,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,1,0,2,0,0,0,0,0,0,0,16,29.6,16.1,0.0,4.6,4,False
+459,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+467,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,1,0,0,0,1,0,0,0,9,8.0,12.8,4.0,2.5,1,False
+473,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+475,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}]}]",90,0,0,0,2,0,0,0,0,0,0,0,13,30.8,1.1,29.0,6.1,1,False
+477,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+478,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+481,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,8,3.4,3.4,0.0,0.7,2,False
+484,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+485,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+486,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+493,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -1, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,10,26.0,11.2,6.0,4.3,0,False
+498,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+503,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,26,17.8,0.8,22.0,4.1,6,False
+506,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+511,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+515,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+518,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+519,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_conceded', 'points': -2, 'value': 5}]}]",90,0,0,0,5,0,0,0,0,0,0,0,12,11.8,1.4,2.0,1.5,0,False
+529,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,1,28,16.6,1.1,0.0,1.8,7,False
+532,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+536,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+542,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+544,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+545,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+546,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+549,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+15,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+16,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+17,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 66}]}]",66,0,0,0,2,0,0,0,0,0,0,0,9,6.4,31.8,6.0,4.4,2,False
+18,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,1,0,0,0,1,0,0,0,8,5.2,2.7,4.0,1.2,1,False
+19,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 54}]}]",54,0,0,0,1,0,0,0,0,0,0,0,2,2.6,5.3,6.0,1.4,1,False
+20,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+21,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,8,19.6,4.5,17.0,4.1,2,False
+28,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,11,3.2,14.6,45.0,6.3,2,False
+29,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,10,12.8,36.1,19.0,6.8,2,False
+30,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 69}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}]}]",69,1,0,0,1,0,0,0,0,0,0,0,21,36.2,2.0,30.0,6.8,7,False
+31,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,1,0,0,2,0,0,0,0,0,0,1,25,43.2,23.8,36.0,10.3,8,False
+32,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+33,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+34,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 2}]}]",2,0,0,0,0,0,0,0,0,0,0,0,2,1.2,10.1,0.0,1.1,1,False
+35,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+36,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+49,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,11,11.0,33.5,19.0,6.4,2,False
+50,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+51,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+52,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+53,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}]}]",45,0,0,0,0,0,0,0,0,0,0,0,3,0.0,2.3,0.0,0.2,1,False
+54,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+55,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+56,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+57,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,13,20.2,2.7,7.0,3.0,2,False
+75,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+76,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+77,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+78,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+79,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 1}]}]",1,0,0,0,0,0,0,0,0,0,0,0,3,0.4,0.2,0.0,0.1,1,False
+80,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+81,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+82,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,17,17.4,12.2,0.0,3.0,1,False
+96,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+97,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,6,11.2,30.2,8.0,4.9,2,False
+98,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 7}]}]",7,0,0,0,0,0,0,0,0,0,0,0,3,8.0,0.0,0.0,0.8,1,False
+99,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+100,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,6,1.2,2.8,36.0,4.0,2,False
+101,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,4,3.6,19.6,0.0,2.3,1,False
+102,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}]}]",45,0,0,0,1,0,0,0,0,0,0,0,4,2.8,2.0,51.0,5.6,1,False
+113,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,1,0,1,0,0,0,0,0,0,0,2,30,47.4,14.2,73.0,13.5,10,True
+114,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 62}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",62,0,0,1,0,0,0,0,0,0,0,0,2,16.0,13.6,85.0,11.5,3,False
+115,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+116,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 27}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",27,0,1,0,0,0,0,0,0,0,0,0,16,21.4,13.9,0.0,3.5,4,False
+117,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 67}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",67,0,0,1,0,0,0,0,0,0,0,0,6,14.2,25.4,51.0,9.1,3,False
+118,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,1,0,1,0,0,0,0,0,0,0,3,45,57.2,42.4,18.0,11.8,11,True
+119,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+120,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+121,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+133,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,1,1,0,0,0,0,0,0,0,0,21,34.0,58.7,57.0,15.0,6,False
+134,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,1,0,1,0,0,0,0,1,0,0,3,34,50.2,22.2,17.0,8.9,10,True
+135,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 20}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}]}]",20,1,0,0,0,0,0,0,0,0,0,0,25,39.8,15.2,17.0,7.2,6,False
+136,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 1}]}]",1,0,0,0,0,0,0,0,0,0,0,0,3,0.4,0.4,0.0,0.1,1,False
+137,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,1,0,0,0,0,1,0,0,0,9,8.2,7.8,16.0,3.2,2,False
+138,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 78}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",78,0,1,1,0,0,0,0,0,0,0,0,19,8.8,24.9,42.0,7.6,6,False
+139,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 69}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",69,0,0,1,0,0,0,0,0,0,0,0,2,1.6,3.4,4.0,0.9,3,False
+140,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+150,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,3,0,0,0,0,0,0,0,4,15.2,1.6,27.0,4.4,2,False
+151,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,3,0,0,0,0,0,0,0,16,23.8,67.3,31.0,12.2,2,False
+152,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+153,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 6}]}]",6,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,1,False
+154,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 9}]}]",9,0,0,0,1,0,0,0,0,0,0,0,3,0.6,0.8,0.0,0.1,1,False
+155,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+156,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+157,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 11}]}]",11,0,0,0,0,0,0,0,0,0,0,0,2,0.6,0.6,0.0,0.1,1,False
+158,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 80}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",80,0,0,0,2,0,0,0,1,0,0,0,7,6.0,2.8,0.0,0.9,1,False
+171,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+172,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 57}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",57,0,1,0,0,0,0,0,0,0,0,0,20,19.8,23.9,9.0,5.3,4,False
+173,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+174,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 32}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",32,0,1,0,0,0,0,0,0,0,0,0,25,24.0,30.5,2.0,5.7,4,False
+175,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 6}]}]",6,0,0,0,0,0,0,0,0,0,0,0,5,2.2,0.7,0.0,0.3,1,False
+176,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,1,0,1,0,0,0,0,0,0,0,0,34,61.6,14.9,17.0,9.4,8,False
+177,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+178,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+179,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+180,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 11}]}]",11,0,0,0,0,0,0,0,0,0,0,0,3,1.0,1.2,0.0,0.2,1,False
+191,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,2,7.6,13.3,68.0,8.9,3,False
+192,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,-2,0.0,3.6,32.0,3.4,3,False
+193,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 1}]}]",1,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,0.0,0.1,1,False
+194,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+195,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+196,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+197,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,24,19.0,16.5,8.0,4.4,3,False
+198,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 63}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",63,0,0,1,0,0,0,0,0,0,0,0,15,9.0,8.7,2.0,2.0,3,False
+199,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,1,0,1,0,0,0,0,0,0,0,2,29,33.6,6.5,17.0,5.7,10,True
+200,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 3}]}]",3,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.5,0.0,0.2,1,False
+201,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+214,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 85}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}]}]",85,1,0,0,1,0,0,0,0,0,0,0,20,46.2,52.3,76.0,17.5,7,False
+215,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 79}, {'identifier': 'assists', 'points': 6, 'value': 2}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",79,0,2,0,1,0,0,0,0,0,0,1,30,23.2,33.6,18.0,7.5,9,False
+216,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+217,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,1,0,0,1,0,0,0,0,0,0,3,45,60.8,59.7,61.0,18.2,10,True
+218,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 10}]}]",10,0,0,0,0,0,0,0,0,0,0,0,4,4.4,0.3,0.0,0.5,1,False
+219,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 4}]}]",4,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.3,0.0,0.0,1,False
+220,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+221,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,19,35.6,11.3,0.0,4.7,2,False
+222,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,9,11.0,14.8,34.0,6.0,2,False
+238,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,11,14.2,27.8,9.0,5.1,2,False
+239,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+240,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+241,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 73}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",73,0,0,0,1,0,0,0,1,0,0,0,0,0.0,13.5,2.0,1.5,1,False
+242,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+243,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,8,7.6,3.4,18.0,2.9,2,False
+244,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 16}]}]",16,0,0,0,0,0,0,0,0,0,0,0,4,5.0,10.8,1.0,1.7,1,False
+245,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+246,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 73}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",73,0,0,0,1,0,0,0,1,0,0,0,2,1.6,22.3,48.0,7.2,1,False
+247,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+248,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,1,0,0,1,0,0,0,0,0,0,2,23,48.4,12.0,24.0,8.4,9,False
+249,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+250,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+265,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 83}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",83,0,1,1,0,0,0,0,0,0,0,0,15,8.8,21.7,23.0,5.4,6,False
+266,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 73}]}]",73,0,0,0,4,0,0,0,0,0,0,0,8,7.8,13.1,0.0,2.1,2,False
+267,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,5,0,0,0,0,0,0,0,4,10.2,7.1,4.0,2.1,2,False
+268,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}]}]",45,0,0,0,4,0,0,0,0,0,0,0,6,7.2,0.8,0.0,0.8,1,False
+269,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+270,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,5,0,0,0,0,0,0,0,8,12.4,11.2,0.0,2.4,2,False
+271,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 42}, {'identifier': 'red_cards', 'points': -3, 'value': 1}]}]",42,0,0,0,5,0,0,0,0,1,0,0,-3,3.4,1.1,1.0,0.6,-2,False
+282,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+283,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,13,24.2,45.8,39.0,10.9,2,False
+284,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+285,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 65}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",65,0,0,0,1,0,0,0,1,0,0,0,5,2.8,12.1,23.0,3.8,1,False
+286,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,12,16.4,2.0,2.0,2.0,2,False
+287,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 80}]}]",80,0,0,0,1,0,0,0,0,0,0,0,-3,3.8,2.5,52.0,5.8,2,False
+288,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,13,21.2,8.3,10.0,4.0,2,False
+289,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+290,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+300,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+301,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,18,14.8,33.0,24.0,7.2,2,False
+302,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 76}]}]",76,0,0,0,1,0,0,0,0,0,0,0,9,17.2,19.4,7.0,4.4,2,False
+320,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,6,1.2,18.8,51.0,7.1,2,False
+321,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,11,17.4,19.8,11.0,4.8,2,False
+322,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+323,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 11}]}]",11,0,0,0,0,0,0,0,0,0,0,0,3,3.2,0.6,7.0,1.1,1,False
+324,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+325,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,9,12.0,8.0,21.0,4.1,2,False
+326,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+327,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+328,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,10,15.0,5.9,0.0,2.1,2,False
+342,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 63}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",63,0,1,0,1,0,0,0,0,0,0,0,12,30.6,34.8,37.0,10.2,5,False
+343,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,0,1,0,1,0,0,0,0,0,0,1,28,27.8,37.6,3.0,6.8,6,False
+344,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+345,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+346,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 26}]}]",26,0,0,0,0,0,0,0,0,0,0,0,4,8.8,11.8,0.0,2.1,1,False
+347,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,15,13.2,4.0,8.0,2.5,2,False
+348,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 1}]}]",1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,1,False
+349,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,10,15.0,3.3,0.0,1.8,2,False
+350,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 12}]}]",12,0,0,0,0,0,0,0,0,0,0,0,0,3.2,0.2,17.0,2.0,1,False
+351,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+352,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+368,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,16,16.6,5.3,9.0,3.1,2,False
+369,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}]}]",45,0,0,0,1,0,0,0,0,0,0,0,8,9.4,37.5,8.0,5.5,1,False
+370,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+371,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,15,16.0,25.9,37.0,7.9,2,False
+372,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+373,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,11,7.6,5.4,8.0,2.1,2,False
+374,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+375,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+389,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+390,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",90,0,1,0,2,0,0,0,0,0,0,0,24,37.2,27.8,60.0,12.5,5,False
+391,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 23}]}]",23,0,0,0,0,0,0,0,0,0,0,0,6,6.2,22.0,20.0,4.8,1,False
+392,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,1,0,0,2,0,0,0,0,0,0,2,37,44.4,29.3,27.0,10.1,9,False
+393,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+394,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 15}]}]",15,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.3,0.0,0.0,1,False
+395,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,20,30.2,2.7,7.0,4.0,2,False
+396,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 74}]}]",74,0,0,0,2,0,0,0,0,0,0,0,7,0.0,2.8,6.0,0.8,2,False
+397,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+398,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+399,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 66}]}]",66,0,0,0,2,0,0,0,0,0,0,0,14,10.0,41.3,52.0,10.3,2,False
+400,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+414,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 3}]}]",3,0,0,0,0,0,0,0,0,0,0,0,3,1.4,0.4,0.0,0.2,1,False
+415,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,15,8.0,7.3,0.0,1.5,3,False
+416,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 33}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",33,0,1,0,0,0,0,0,0,0,0,0,12,0.0,5.3,4.0,0.9,4,False
+417,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 86}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",86,0,0,1,0,0,0,0,0,0,0,0,9,14.8,20.5,8.0,4.3,3,False
+418,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+419,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+420,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,9,23.2,4.0,2.0,2.9,3,False
+421,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+422,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+430,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+431,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+432,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 22}]}]",22,0,0,0,0,0,0,0,0,0,0,0,11,7.6,21.2,0.0,2.9,1,False
+435,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 9}]}]",9,0,0,0,1,0,0,0,0,0,0,0,6,3.0,0.3,0.0,0.3,1,False
+438,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+441,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+442,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 77}, {'identifier': 'goals_scored', 'points': 5, 'value': 1}]}]",77,1,0,0,1,0,0,0,0,0,0,0,23,45.8,11.5,37.0,9.4,7,False
+443,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,1,0,0,0,1,0,0,0,16,16.2,24.9,0.0,4.1,1,False
+448,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,0,1,0,0,0,0,0,0,0,0,14,13.2,25.3,33.0,7.2,3,False
+453,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 59}]}]",59,0,0,0,0,0,0,0,0,0,0,0,3,0.0,6.1,10.0,1.5,1,False
+456,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+462,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+463,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",90,0,1,1,0,0,0,0,0,0,0,0,24,8.6,27.6,8.0,4.4,6,False
+465,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 20}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",20,0,1,0,1,0,0,0,1,0,0,0,10,22.2,14.3,2.0,3.9,3,False
+469,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 35}]}]",35,0,0,0,0,0,0,0,0,0,0,0,5,3.6,2.2,10.0,1.6,1,False
+470,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+472,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+476,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 88}]}]",88,0,0,0,2,0,0,0,0,0,0,0,8,11.8,1.1,35.0,4.8,2,False
+480,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+482,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+483,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+488,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 73}]}]",73,0,0,0,1,0,0,0,0,0,0,0,5,2.8,6.0,23.0,3.2,2,False
+489,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 16}]}]",16,0,0,0,0,0,0,0,0,0,0,0,5,5.2,8.8,7.0,2.1,1,False
+490,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 10}]}]",10,0,0,0,0,0,0,0,0,0,0,0,8,8.0,21.0,4.0,3.3,1,False
+491,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,22,19.8,33.3,0.0,5.3,2,False
+492,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 13}]}]",13,0,0,0,0,0,0,0,0,0,0,0,4,4.8,0.3,0.0,0.5,1,False
+497,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+499,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+500,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+505,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 77}]}]",77,0,0,0,2,0,0,0,0,0,0,0,8,11.0,20.5,0.0,3.2,2,False
+507,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,18,21.6,0.6,0.0,2.2,2,False
+508,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 87}]}]",87,0,0,0,2,0,0,0,0,0,0,0,-2,6.2,24.8,13.0,4.4,2,False
+510,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+516,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 64}]}]",64,0,0,0,1,0,0,0,0,0,0,0,9,26.2,0.8,0.0,2.7,2,False
+517,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 78}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'clean_sheets', 'points': 1, 'value': 1}]}]",78,0,1,1,0,0,0,0,0,0,0,0,15,4.6,8.4,20.0,3.3,6,False
+522,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+523,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+524,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+525,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 70}]}]",70,0,0,0,2,0,0,0,0,0,0,0,0,0.0,13.3,10.0,2.2,2,False
+527,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+528,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 56}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",56,0,1,0,0,0,0,0,0,0,0,0,16,23.6,21.9,21.0,6.7,4,False
+533,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+537,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,0,0,2,0,0,0,1,0,0,0,11,8.4,6.5,22.0,3.7,1,False
+539,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+540,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+541,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 79}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",79,0,1,0,1,0,0,0,0,0,0,0,14,31.8,30.0,41.0,10.3,5,False
+11,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,1,0,0,1,0,0,0,0,0,0,3,33,42.2,25.7,19.0,8.7,9,False
+12,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+13,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+26,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+44,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 11}]}]",11,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.1,1.0,0.0,1,False
+45,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+46,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+67,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}]}]",90,1,0,0,2,0,0,0,0,0,0,0,24,46.6,12.3,84.0,14.3,6,False
+68,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,1,1,0,2,0,0,0,0,0,0,3,40,58.2,17.0,37.0,11.2,12,True
+69,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,2,2.8,2.4,26.0,3.1,2,False
+70,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 30}]}]",30,0,0,0,1,0,0,0,0,0,0,0,0,0.0,1.7,2.0,0.4,1,False
+71,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+90,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 82}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",82,0,0,0,2,0,0,0,1,0,0,0,1,2.0,10.8,6.0,1.9,1,False
+91,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 1, 'value': 1}]}]",90,1,0,0,2,0,0,0,0,0,0,1,25,33.6,1.3,37.0,7.2,7,False
+92,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+110,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+129,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+130,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+146,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+147,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}]}]",90,1,0,0,3,0,0,0,0,0,0,0,22,34.2,1.7,57.0,9.3,6,False
+166,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 8, 'value': 2}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",90,2,0,1,0,0,0,0,1,0,0,3,47,64.4,12.8,64.0,14.1,12,True
+167,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+187,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 86}]}]",86,0,0,1,0,0,0,0,0,0,0,0,14,3.6,14.9,10.0,2.9,2,False
+188,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 26}]}]",26,0,0,0,0,0,0,0,0,0,0,0,6,6.4,16.5,8.0,3.1,1,False
+210,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 24}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",24,0,1,0,0,0,0,0,0,0,0,0,11,0.0,2.8,7.0,0.9,4,False
+211,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 65}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}]}]",65,1,0,0,1,0,0,0,0,0,0,0,26,30.4,6.7,59.0,9.6,6,False
+232,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+233,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",90,0,1,0,1,0,0,0,1,0,0,0,14,20.4,23.1,38.0,8.2,4,False
+234,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 16}]}]",16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.9,5.0,0.3,1,False
+260,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}]}]",45,0,0,0,1,0,0,0,0,0,0,0,1,0.0,0.3,0.0,0.0,1,False
+261,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+278,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,5,12.4,33.0,33.0,7.8,2,False
+279,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+298,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+303,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+312,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+313,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 82}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 3, 'value': 3}]}]",82,1,0,0,2,0,0,0,0,0,0,3,33,41.4,12.6,45.0,9.9,9,False
+314,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 7}]}]",7,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,1,False
+315,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 2}]}]",2,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,1,False
+316,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+338,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}, {'identifier': 'bonus', 'points': 2, 'value': 2}]}]",90,1,0,0,1,0,0,0,0,0,0,2,30,37.2,1.3,31.0,7.0,8,False
+339,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+362,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+363,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}]}]",45,0,0,0,1,0,0,0,0,0,0,0,1,3.6,12.9,12.0,2.9,1,False
+364,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 19}]}]",19,0,0,0,0,0,0,0,0,0,0,0,5,7.6,10.9,50.0,6.9,1,False
+365,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+385,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+386,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+387,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+409,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 79}]}]",79,0,0,1,0,0,0,0,0,0,0,0,2,0.0,12.0,13.0,2.4,2,False
+410,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+428,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 87}]}]",87,0,0,0,2,0,0,0,0,0,0,0,2,0.0,12.2,4.0,1.4,2,False
+434,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 24}]}]",24,0,0,0,1,0,0,0,0,0,0,0,-1,0.0,0.1,10.0,0.9,1,False
+437,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+451,"[{'fixture': 61, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 45}, {'identifier': 'goals_scored', 'points': 4, 'value': 1}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",45,1,0,0,1,0,0,0,1,0,0,0,24,35.0,10.3,19.0,6.4,4,False
+457,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}, {'identifier': 'assists', 'points': 3, 'value': 1}]}]",90,0,1,0,2,0,0,0,0,0,0,0,15,26.8,44.1,78.0,14.9,5,False
+460,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 83}]}]",83,0,0,1,0,0,0,0,0,0,0,0,-2,13.2,28.3,77.0,11.9,2,False
+461,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 6}]}]",6,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.1,8.0,0.8,1,False
+464,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+466,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 62}]}]",62,0,0,0,3,0,0,0,0,0,0,0,7,3.0,1.3,2.0,0.6,2,False
+468,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 89}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",89,0,0,1,0,0,0,0,1,0,0,0,0,3.4,26.6,49.0,7.9,1,False
+487,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 10}]}]",10,0,0,0,0,0,0,0,0,0,0,0,2,0.0,3.3,0.0,0.3,1,False
+496,"[{'fixture': 65, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 16}]}]",16,0,0,0,1,0,0,0,0,0,0,0,3,1.0,0.0,2.0,0.3,1,False
+501,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,1,0,0,0,0,0,0,0,2,6.2,1.7,42.0,5.0,2,False
+502,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 78}, {'identifier': 'yellow_cards', 'points': -1, 'value': 1}]}]",78,0,0,0,2,0,0,0,1,0,0,0,0,0.0,4.1,2.0,0.6,1,False
+504,"[{'fixture': 67, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+509,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+512,"[{'fixture': 70, 'stats': [{'identifier': 'minutes', 'points': 2, 'value': 90}]}]",90,0,0,0,2,0,0,0,0,0,0,0,5,8.6,13.8,49.0,7.1,2,False
+514,"[{'fixture': 62, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+520,"[{'fixture': 66, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 27}]}]",27,0,0,0,2,0,0,0,0,0,0,0,1,6.2,1.4,2.0,1.0,1,False
+534,"[{'fixture': 63, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 25}]}]",25,0,0,0,1,0,0,0,0,0,0,0,2,0.2,0.6,0.0,0.1,1,False
+535,"[{'fixture': 69, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+538,"[{'fixture': 64, 'stats': [{'identifier': 'minutes', 'points': 0, 'value': 0}]}]",0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,False
+547,"[{'fixture': 68, 'stats': [{'identifier': 'minutes', 'points': 1, 'value': 13}]}]",13,0,0,0,0,0,0,0,0,0,0,0,-1,0.0,0.3,4.0,0.3,1,False
