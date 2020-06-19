@@ -1,4 +1,5 @@
-from fpl_constants import DATASETS_PATH, PLAYER_WITH_GW_FILENAME, TEAM_FILENAME, PLAYER_PROCESSED_FILENAME
+from fpl_constants import DATASETS_PATH, PLAYER_WITH_GW_FILENAME, TEAM_FILENAME, PLAYER_PROCESSED_FILENAME, \
+    FIXTURE_FILENAME
 import pandas as pd
 import numpy as np
 
@@ -8,7 +9,7 @@ pd.set_option('display.width', 1000)
 
 player_df = pd.read_csv('./{dsp}/{pfn}'.format(dsp=DATASETS_PATH, pfn=PLAYER_WITH_GW_FILENAME))
 team_data = pd.read_csv('./{dsp}/{pfn}'.format(dsp=DATASETS_PATH, pfn=TEAM_FILENAME))
-
+fixture_data = pd.read_csv('./{dsp}/{pfn}'.format(dsp=DATASETS_PATH, pfn=FIXTURE_FILENAME))
 
 def read_csv_list(str):
     str = str.replace(' ', '').replace(']', '').replace('[', '')
@@ -25,7 +26,8 @@ def get_var_last_5(pts_list):
     if len(pts_list) < 5: raise Exception('Not enough history to get last 5 games')
     return np.var(pts_list[-5:])
 
-## ADD OTHER PLAYER METRICS SUCH AS ROI AND POINTS IN LAST 5 GAMES ETC.
+
+## ADD OTHER PLAYER METRICS SUCH AS ROI (RETURN ON INVESTMENT) AND POINTS IN LAST 5 GAMES ETC.
 player_df['points_list'] = player_df['points_list'].apply(read_csv_list)
 player_df['minutes_list'] = player_df['minutes_list'].apply(read_csv_list)
 player_df['pts_last_5'] = player_df['points_list'].apply(get_pts_last_5)
@@ -49,7 +51,7 @@ player_df.columns = ['full_name', 'team_name', 'now_cost', 'pts_last_5', 'roi', 
                      'points_list', 'minutes_list', 'id', 'first_name', 'second_name', 'code']
 
 player_df = player_df[['full_name', 'team_name', 'now_cost', 'pts_last_5', 'roi', 'roi_last_5', 'variance',
-                       'variance_last_5', 'total_points', 'minutes', 'selected_by_percent', 'id']]
+                       'variance_last_5', 'total_points', 'minutes', 'selected_by_percent', 'id', 'team']]
 player_df.to_csv(DATASETS_PATH + '/' + PLAYER_PROCESSED_FILENAME, index=False)
 
 # gw1_df = pd.read_csv('./{dsp}/gw1.csv'.format(dsp=DATASETS_PATH))

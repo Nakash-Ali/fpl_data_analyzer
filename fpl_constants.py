@@ -3,4 +3,7 @@ PLAYER_FILENAME = 'player_data.csv'
 PLAYER_WITH_GW_FILENAME = 'player_with_GW_data.csv'
 PLAYER_PROCESSED_FILENAME = 'player_data_processed.csv'
 TEAM_FILENAME = 'team_data.csv'
+TEAM_DIFFICULTY_FILENAME = 'team_data_with_fixture_difficulties.csv'
 FIXTURE_FILENAME = 'fixture_data.csv'
+PLAYER_POINTS_FILENAME = "player_points_data.csv"
+PLAYER_MINUTES_FILENAME = "player_minutes_data.csv"
